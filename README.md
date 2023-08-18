@@ -6,6 +6,6 @@ Test Etmek için
 kullanıcı mail: test@mail.com
 şifre : 12345678
 
-Link1: [gelirgider.online](https://gelirgider.online)
+Link1: [gelirgider.online](https://www.gelirgider.online/signIn)
 
 Link1: [gelirgider.online](https://gelirgideronline.vercel.app/signIn)
